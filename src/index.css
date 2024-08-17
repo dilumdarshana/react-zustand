@@ -1,0 +1,18 @@
+#root {
+  max-width: 1280px;
+}
+
+.main-wrapper {
+  margin: 5px;
+}
+
+.com-wrapper {
+  display: flex;
+}
+
+.component {
+  gap: 2rem;
+  padding: 0 10px 10px 10px;
+  margin: 5px;
+  border: 1px solid #ccc;
+}
